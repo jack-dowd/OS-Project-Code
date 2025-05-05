@@ -1,2 +1,2 @@
 # OS-Project-Code
-Contains the Jupyter Notebook with our functions and simulation results/plots
+Contains a Jupyter Notebook (mmmrr.ipynb) with our functions and simulation results/plots.
